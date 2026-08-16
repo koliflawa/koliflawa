@@ -64,7 +64,7 @@
 
 | 기간 | 기관 | 프로젝트 | 기술 |
 |---|---|---|---|
-| `2024.07 ─ 2025.04` | `*****` (제조) | PDM 구축 | Java · eGovFrame · RealGrid3 · Oracle |
+| `2024.07 ─ 2025.04` | `*****` (제조) | PDM 구축 | Java · eGovFrame · RealGrid2 · Oracle |
 | `2024.02 ─ 2024.07` | 사이버라인 (본사) | 차세대 PDM 프레임워크 기초 설계 | Java · eGovFrame · Oracle |
 | `2016.11 ─ 2024.02` | 경찰청 | 면허 행정처분 시스템 운영 · 고도화 | Java · `Pro*C` · Tuxedo · Oracle |
 | `2016.09 ─ 2016.11` | 경찰청 | 교통사고 통계 고도화 | Java · `Pro*C` · Tuxedo · Oracle |

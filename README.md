@@ -74,7 +74,7 @@
 | `2014.12 ─ 2015.01` | 방사선안전재단 | 수출입관리 시스템 구축 | Java · eGovFrame · CUBRID |
 | `2014.05 ─ 2014.12` | 한국산업인력공단 | 온라인교육 모니터링 시스템 구축 | Java · eGovFrame · WebLogic · Oracle |
 | `2014.01 ─ 2014.04` | `****` (커머스) | 고객 사이트 신규 구축 | Java · eGovFrame · Oracle |
-| `2011.11 ─ 2013.12` | `****` (제조) | 펌웨어 형상관리 시스템 운영 · 개발 | Java · Jenkins · WebLogic · Oracle |
+| `2011.11 ─ 2013.12` | Samsung SDS (제조) | 펌웨어 형상관리 시스템 운영 · 개발 | Java · Jenkins · WebLogic · Oracle |
 
 <br/>
 
